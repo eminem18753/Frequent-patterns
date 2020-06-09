@@ -1,10 +1,11 @@
-¥Ø¼Ğ:
-1.§ä¥XÅU«È¥æ©ö¸ê°T¤¤¤j©ómin supportªºÅU«ÈÁÊ¶R°Ó«~²Õ¦X
-->min supportªº©w¸q¥i°Ñ¦Ò<a href="https://medium.com/marketingdatascience/%E4%BD%A0%E6%80%8E%E9%BA%BC%E8%99%95%E7%90%86%E9%A1%A7%E5%AE%A2%E4%BA%A4%E6%98%93%E8%B3%87%E8%A8%8A-apriori%E6%BC%94%E7%AE%97%E6%B3%95-1523b1f8443b">³sµ²</a>
-¸ÑÄÀsample.in:
-1.¨C¤@¦C¥Nªí1²Õ°Ó«~ªºÁÊ¶R(¸ÓÁÊª«ªÌ¸Ó¦¸¥i¯àÁÊ¶R¦h­Ó°Ó«~¡A©Ò¦³ÁÊ¶Rªº°Ó«~id¥H³r¸¹°Ï¹j)
-°õ¦æ¤è¦¡:
-1.©ówindows¨t²Î¥´¶}cmd
-2.°õ¦æ"mingw32-make -f makefile"
-3.°õ¦æ".\main.exe 0.1 sample.in sample_0.1.out"¡A·|¿é¥XÀÉ®×sample_0.1.out
-->¨ä¤¤0.1¬°min support
+<b>Frequent patterns</b> <br />
+Part 1.ç›®æ¨™: <br />
+1.æ‰¾å‡ºé¡§å®¢äº¤æ˜“è³‡è¨Šä¸­å¤§æ–¼min supportçš„é¡§å®¢è³¼è²·å•†å“çµ„åˆ <br />
+->min supportçš„å®šç¾©å¯åƒè€ƒ<a href="https://medium.com/marketingdatascience/%E4%BD%A0%E6%80%8E%E9%BA%BC%E8%99%95%E7%90%86%E9%A1%A7%E5%AE%A2%E4%BA%A4%E6%98%93%E8%B3%87%E8%A8%8A-apriori%E6%BC%94%E7%AE%97%E6%B3%95-1523b1f8443b">é€£çµ</a> <br />
+Part 2.è§£é‡‹sample.in: <br />
+1.æ¯ä¸€åˆ—ä»£è¡¨1çµ„å•†å“çš„è³¼è²·(è©²è³¼ç‰©è€…è©²æ¬¡å¯èƒ½è³¼è²·å¤šå€‹å•†å“ï¼Œæ‰€æœ‰è³¼è²·çš„å•†å“idä»¥é€—è™Ÿå€éš”) <br />
+Part 3.åŸ·è¡Œæ–¹å¼: <br />
+1.æ–¼windowsç³»çµ±æ‰“é–‹cmd <br />
+2.åŸ·è¡Œ"mingw32-make -f makefile" <br />
+3.åŸ·è¡Œ".\main.exe 0.1 sample.in sample_0.1.out"ï¼Œæœƒè¼¸å‡ºæª”æ¡ˆsample_0.1.out <br />
+->å…¶ä¸­0.1ç‚ºmin support <br />
